@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrasilnikovaAlina_CatFramework", "KrasilnikovaAlina_CatFramework\KrasilnikovaAlina_CatFramework.csproj", "{1BF9FEA6-4D59-475D-B54B-15D40012E474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrasilnikovaAlina_CatApplication", "KrasilnikovaAlina_CatApplication\KrasilnikovaAlina_CatApplication.csproj", "{99067D21-2178-474A-A4A3-5AE5BAE3FC8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF9FEA6-4D59-475D-B54B-15D40012E474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF9FEA6-4D59-475D-B54B-15D40012E474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF9FEA6-4D59-475D-B54B-15D40012E474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF9FEA6-4D59-475D-B54B-15D40012E474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99067D21-2178-474A-A4A3-5AE5BAE3FC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99067D21-2178-474A-A4A3-5AE5BAE3FC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99067D21-2178-474A-A4A3-5AE5BAE3FC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99067D21-2178-474A-A4A3-5AE5BAE3FC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
